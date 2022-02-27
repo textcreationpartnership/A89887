@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Brussels, in a letter from a neer attendant on His Maiesties person. To a person of honour here. Which casually became thus publique.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89887</idno>
+            <idno type="STC">Wing N398A</idno>
+            <idno type="STC">Thomason E1017_38</idno>
+            <idno type="STC">ESTC R208232</idno>
+            <idno type="EEBO-CITATION">99867198</idno>
+            <idno type="PROQUEST">99867198</idno>
+            <idno type="VID">168832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168832)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Brussels, in a letter from a neer attendant on His Maiesties person. To a person of honour here. Which casually became thus publique.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 23. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Restorations, Political --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168832:1" rendition="simple:additions"/>
+            <p>NEWES FROM BRUSSELS, IN A LETTER FROM A NEER ATTENDANT ON His Maieſties PERSON.</p>
+            <p>To a Perſon of Honour here.</p>
+            <p>
+               <hi>Which caſually became thus publique.</hi>
+            </p>
+            <figure/>
+            <p>Printed in the Year, 1660.</p>
+            <pb facs="tcp:168832:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:168832:2"/>
+            <head>A LETTER FROM Bruſſels.</head>
+            <opener>
+               <salute>Honeſt <hi>Jack,</hi>
+               </salute>
+            </opener>
+            <p>THine, by <hi>T. L.</hi> our true Poſt-pigeon, and (I would I could not ſay) onely expedi<g ref="char:EOLhyphen"/>tious perſon, was mine before the morn<g ref="char:EOLhyphen"/>ing; and our Maſters the ſame minute, who took no ſmall delight therein: for he read it thrice, and is reſolved (and ſwore to boot) thou art the firſt ſhall kneel under his ſacred Sword. Sir <hi>C. C.</hi> has his heart, and at firſt view he thought of wafting thither, leſt he ſhould think his loyalty was ſlighted: but <hi>H. I.</hi> and <hi>I.</hi> adviſed otherwiſe, and with ſome a doe diverted that intent, and got him to ſignifie his Royal pleaſure in the incloſed; which, in<g ref="char:EOLhyphen"/>ſtantly diſpatch by <hi>Minyard</hi> way: <hi>F. H.</hi> has alwayes paſſage ready. Sir <hi>M. M.</hi> two hours after brought
+<pb n="4" facs="tcp:168832:3"/>
+good news from his cold Countrey; but <hi>Calvin</hi> ſmels too rank for us to venture thither: they firſt betray<g ref="char:EOLhyphen"/>ed his Royal Father, and after that his ſacred ſelf: nor are our fortunes now at that low ebb, to re<g ref="char:EOLhyphen"/>imbarque our all in that old-leaky-bottom. Prithee perſwade <hi>Sam.</hi> to be ſilent, tell him it is our Maſters pleaſure. Thinkeſt thou none knows, as well as he who firſt conjured up this Divel, and curſed them that would not curſe and fight againſt His Majeſty in <hi>Meroz</hi> name: yes, we can look though through our ſingers: this Rebellion firſt bubbled up in Preſbyte<g ref="char:EOLhyphen"/>rian Pulpits, yet it's impollitick to ſay ſo much: we alſo know 'tis more for fear of the Phanatiques than for love to us, they now are loyal: ſo alſo it is our neceſſity, not choice, that makes us court them: Hug them you cannot hang, at leaſt until you can: would <hi>Lall:</hi> had longer lips; I hate to ſhew the teeth before we bite: we choak our Dogs with Cruſts as well as Pins, no Curre will eat a Pin alone; a blew Ribbon and a Star we know will un<g ref="char:EOLhyphen"/>become a Rebels ſhoulder, but Fiſhes bite at baits; he is an Aſſe that angles and hides not his Hook: How moſt unhappy is my Soveraign Lord, that the impatience of his Friends ſhould be as perillous to his fortunes, as the Pikes of his Enemies: we never yet well minded our next worke; he's a Fool that thinks when the Nedle's in the Thread won't follow: ſet then your helping hand to this, let that alone; procure the cauſe and 'tis impoſſible to ſeparate the effect. But he comes in on terms? and is bound up? Tuſh! remember that bleſſed line I marked in <hi>Machia<g ref="char:EOLhyphen"/>vil;</hi> he's an Oafe that thinks an Oath, or any Tedder
+<pb n="5" facs="tcp:168832:3"/>
+can tame a Prince beyond his pleaſure: <hi>Zerviah</hi>'s Sons lived to <hi>David</hi>'s great diſlike, but 'twas but til he could kill them more conveniently: and pre<g ref="char:EOLhyphen"/>thee what did <hi>Shimei</hi>'s pardon do but planch him up: they can't abide to ſee his houſe a Roundhead<g ref="char:EOLhyphen"/>hive; 'tis true, tis much that any can: Are you yet to learn to make Neceſſity a Vertue? who doubts but that <hi>C, Borgia</hi> did his buſineſſe better, by lulling <hi>Vitelloz</hi> aſleep<g ref="char:punc">▪</g> than to have hazarded all by the in<g ref="char:EOLhyphen"/>certain chance of Fortune; 'tis a Romance to think Revenge can ſleep, but like a Dog, to wake at will: 'Tis true, ſerved we a Prince that needed ſpurs, this humour might be cheriſhed; but alas, we rather uſe all the Art and Arguments we can to rein him in; hadſt thou but ſeen his paſſion when <hi>M</hi>'s <hi>Pedigree</hi> came over, thou wouldſt have ſaid he had ſteel enough—Seal <hi>Rob.</hi> lips, I pray thee, for fear it may diſſerve him at dinner; 'twas, and in ſome degree is, too publique. There needs no Record for a Rival; yet is it laid (by ſtrict command) next <hi>Murrey</hi>'s Manuſcript, and wil one day be reviewed; til then <hi>Plantaginet</hi>'s in pickle. But I'le retain our (moſt abſolutely neceſ<g ref="char:EOLhyphen"/>ſary) diſcourſe, for thy farher ſatisfaction: canſt fancy, that our Maſter can forget he had a Father, how he liv'd and died, how he loſt both Crown and life, and who the cauſe thereof? never Monarch yet had a memory halfe ſo bad<hi>:</hi> Ne'r fear, there's fire enough in his Fathers Aſhes (though yet inviſible) to burn up every Adverſary; only our clamorous impa<g ref="char:EOLhyphen"/>tience would have all at once: give time, he aſcends moſt ſafe that does't <hi>gradatim;</hi> overſtraining not onely ſpends the ſtrength too faſt, but does en<g ref="char:EOLhyphen"/>danger falling more: Remember our dread Leige
+<pb n="6" facs="tcp:168832:4"/>
+Lord (if ever guilty of an error) miſcarried here; from what a hope fell he and we, for want of fol<g ref="char:EOLhyphen"/>lowing <hi>S.</hi> 's advice: All or none's a Game not for a Prince to play, but Deſperado's, whoſe fortunes riſe and ſet with every Sun. The <hi>Presbyter</hi> will give up the <hi>Phanatique,</hi> a handſome bone to pick at firſt: I like it better far than all at once; exceſs brings ſur<g ref="char:EOLhyphen"/>feits: Thus half the beard they ſhave themſelves, let us alone with t' other: Drown firſt the Kitlings, let the Dam that litter'd them alone a little longer: They glory they are <hi>Orthodox;</hi> hear, and hold ſtill thy head, let us alone to find out freſh <hi>Phanatiques,</hi> and beat them back into King <hi>Harry</hi>'s Codpiece. We know the Sectaries had a Sire, and whoſe ſpurious brood they are; even as the Puritan was the off-ſet of the Pro<g ref="char:EOLhyphen"/>teſtant: <hi>Spain</hi>'s Attach, revive as oft as well thou canſt; 'tis a good blind, and propagates our Maſters Intereſt: <hi>Wat</hi> came ſince my laſt, and will not let our Lord alone, till he ſees a Lecture up in Court, and Chaplains preach before him, ordained by the Preſbytery: and one <hi>Waldenſe</hi> is come already. O <hi>Jeſu, Jack!</hi> I want an iron hoop to keep my ſides from ſplitting, to ſee my poor Prince hite's lips for halfe an hour long, while that <hi>Dulmano</hi> begs a bleſſing (as he cals it) as our Mech-beggers do their Bacon at the Farmers doors: <hi>G.</hi> got behinde him yeſterday and made mouths, which the Puppy by an unhappy turn of his head perceived; but His Majeſty ſeeing all, prudently anticipated his complaint, and with a Royal gravity, not onely rebuked <hi>G.</hi> but immediatly diſmiſt him his ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>
+               <pb n="7" facs="tcp:168832:4"/>
+We all made application to the Parſon to me<g ref="char:EOLhyphen"/>diate to our Maſter for <hi>G.</hi> his reſtoration, which he did: and after much intreaty, his requeſt was graciouſly granted; but not for <hi>G.</hi> his ſake, but for his, and not on future good behaviour nei<g ref="char:EOLhyphen"/>ther: <hi>M. H.</hi> and <hi>I.</hi> were in the preſence at night, but I thought we ſhould have ſplit our ſpleenes a laughing: but by theſe meanes all was healed: and henceforward we are all commanded to be plaguy-godly. <hi>H.</hi> bid me hand his ſervice to thee, he ſwears he hath horn'd 15 Cuckolds within this 14 dayes.—Mind the Militia moſt, talk not of disbanding, one pin naturally drives out another. <hi>A. B.</hi> at parting ſwore he would ſee that execrable Exit raced out; whom ſo aſſiſt he may not ſuffer. Let <hi>Th.</hi> continue his Ca<g ref="char:EOLhyphen"/>reſſes, and bid him not jeopard ſuch broad Joques no more; he ſaies ſhe ſtinks of Piſs and Horſe-ſpice: <hi>D, F, C,</hi> and—court upon all occaſions: if <hi>M, M,</hi> and—ſtand right, we ask no more, City, Land, and Sea is our own: that Reformation likes us rarely well, though we wonder he would hazard all upon ſuch a raſh adventure. Bid <hi>Phil.</hi> and's Brother both be cloſe; they now may liſt and none the wiſer: we dared not let the <hi>Nuntio</hi> ſee the Sun. We hope our friends droop ſtill, and curſe him whom moſt they covet.—Let not thy Lady know our <hi>Italian</hi> tye: the Devil can't track us if we 3 keep our tongue within our teeth. Fret not nor afflict thy ſelf nor friend, for we reſolve, the Rogues that left the Rump, ſhall feel the ſcourge that Loyal hearts laſh Rebels with, as well as others; a Roundhead is a Roundhead; black and white De<g ref="char:EOLhyphen"/>vils all alike to us.—Thinkeſt thou that we can breath in peace, while we ſee a little finger left alive that hath
+<pb n="8" facs="tcp:168832:5"/>
+been dipt in Royal blood? or his adherents? No, a thought of mercy more hateful is than Hell: but Cooks may be conquerors, and a plate perform equal execu<g ref="char:EOLhyphen"/>tion with a Piſtol, and with leſs report. Be quiet then, let's uſe all art to make them take the halter tamely. Preſſe the ſpeedy raiſing of the City Regiments.—And out the Rogue at Stern: what folly is't to think we can ſafely ferry while the Fleet's Phanatique? This done, let our cauſe miſcarry if it can. <hi>Maz.</hi> met <hi>Wat,</hi> and gave him ſound advice.—Get Arms, but buy them not in ſuch ſuſpicious numbers: that if all fails, we may repair to them, and cut our paſſage to the Throne through Traitors blood. Farewel.</p>
+            <closer>
+               <dateline>
+                  <hi>Bruſſels,</hi> S. V. <date>
+                     <hi>March</hi> 10. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
